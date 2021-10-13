@@ -2,9 +2,6 @@
 for(i-0;i<=100;i++)f
 Floor[i]=i;
 console.log(Floor[i]+"樓");
-16
-20
-28
 var currentFloor = 5; //index value of floorName
 var targetFloor; //B2 -> index:1
 while(true)//無窮道圈
